@@ -1,4 +1,4 @@
-gitignore
+.gitignore
 venv
 app/trained_model/trained_model_link.txt
 app/trained_model/plant_disease_prediction_model.h5
